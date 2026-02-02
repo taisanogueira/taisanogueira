@@ -23,10 +23,6 @@ Atualmente estou em transição e consolidação de carreira na área de dados, 
 
 Tenho contato e sigo me desenvolvendo com:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,excel" />
-</p>
-
 - 📈 Análise e visualização de dados  
 - 🧠 Pensamento analítico aplicado a negócios  
 - 📊 Indicadores, métricas e organização de informações  
