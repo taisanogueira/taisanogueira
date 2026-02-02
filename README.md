@@ -1,7 +1,7 @@
 ## Oi, eu sou a Taísa Nogueira 👋✨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1M3h4bGV3OWk1aW9oY2ZxN3R5ZjB6c2s0bG9tM2d5dG91Y3F3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26n6WywJyh39n1pBu/giphy.gif" width="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lvYnJ1YTh0Z283Z2Y2OWx3MHNpMXQxdm1ycTA3Y2d3ajdrem5iaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="250"/>
 </p>
 
 ---
