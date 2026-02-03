@@ -34,7 +34,7 @@ Tenho contato e sigo me desenvolvendo com:
 Acredito muito em aprendizado contínuo e em construir uma carreira sólida, mesmo que o caminho não seja linear. Estou sempre aberta a trocar ideias, aprender coisas novas e colaborar em projetos que façam sentido.
 
 📫 Vamos conversar?  
-Me chama por aqui no GitHub ou no LinkedIn 😉
+Me chama por aqui no GitHub ou no LinkedIn www.linkedin.com/in/taisanogueira 😉
 
 ---
 
